@@ -11,3 +11,5 @@ git status
 git add .
 git commit -m ""
 git push
+
+## CRiando conteudo na master e jogando na DEV"
